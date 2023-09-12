@@ -4,7 +4,7 @@
  * _islower - function to check if
  *            character is lowercase
  *
- * 0c: check input of function
+ * @c: check input of function
  *
  * Return: return 1 if 'c' is lowercase
  *          otherwise always 0 (success)
