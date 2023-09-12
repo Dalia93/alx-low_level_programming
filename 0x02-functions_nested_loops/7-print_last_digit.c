@@ -7,7 +7,7 @@
  * return: lastDigit
  */
 
-int print_last_digit(int n)
+int last_digit(int n)
 {
 int lastDigit;
 
