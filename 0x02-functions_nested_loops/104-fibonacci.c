@@ -1,5 +1,7 @@
 #include "main.h"
 
+#include <stdio.h>
+
 /**
  * numlength - returns the length of string
  *
@@ -42,12 +44,12 @@ for (count = 1; count <= 98; count++)
 {
 if (f1o > 0)
 printf("%lu", f1o);
-initial0s = numlength(mx) - 1 - numlength(f1);
+initia10s = numlength(mx) - 1 - numlength(f1);
 
-while (f1o > 0 && initial0s > 0)
+while (f1o > 0 && initia10s > 0)
 {
 printf("%d", 0);
-initial0s--;
+initia10s--;
 }
 
 printf("%lu", f1);
